@@ -1,0 +1,12 @@
+{
+  "name": "holtwinters",
+  "version": "0.0.1",
+  "description": "A javascript port of a Holt-Winters Triple Exponential Smoothing algorithm",
+  "main": "index.js",
+  "keywords": ["holt", "winters", "holt-winters", "exponential smoothing", "forecast", "prediction", "big data"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir Oberemok <vladimir@rubygarage.com> (https://github.com/nihtalak)",
+  "license": "MIT"
+}
